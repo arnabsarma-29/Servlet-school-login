@@ -1,2 +1,2 @@
-# Servlet-school-login
-Registering & Login Using JDBC & Servlet
+# Servlet School Login
+Registering & Logging in Using JDBC & Servlet
